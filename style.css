@@ -117,7 +117,7 @@ nav a{
 	}
 
 	.lista-beneficios, .imagem-beneficios {
-		width: 100%;
+		width: 89%;
 	}
 
 	.video, .imagem-beneficios, .lista-beneficios, .mapa-conteudo, .principal {
@@ -144,6 +144,6 @@ nav a{
 	}
 
 	.video, .imagem-beneficios, .lista-beneficios, .mapa-conteudo, .principal {
-		margin: 0 25px;
+		margin: 0 20px;
 	}
 }

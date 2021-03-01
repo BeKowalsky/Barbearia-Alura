@@ -120,8 +120,12 @@ nav a{
 		width: 89%;
 	}
 
-	.video, .imagem-beneficios, .lista-beneficios, .mapa-conteudo, .principal {
+	.imagem-beneficios, .lista-beneficios, .mapa-conteudo, .principal {
 		margin: 0 20px;
+	}
+
+	.video {
+		margin: 10px 20px;
 	}
 }
 
@@ -143,7 +147,11 @@ nav a{
 		width: 95%;
 	}
 
-	.video, .imagem-beneficios, .lista-beneficios, .mapa-conteudo, .principal {
+	.imagem-beneficios, .lista-beneficios, .mapa-conteudo, .principal {
 		margin: 0 20px;
+	}
+
+	.video {
+		margin: 10px 20px;
 	}
 }

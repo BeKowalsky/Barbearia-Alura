@@ -119,6 +119,10 @@ nav a{
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
 	}
+
+	.video, .imagem-beneficios, .lista-beneficios, .mapa-conteudo, .principal {
+		margin: 0 20px;
+	}
 }
 
 @media screen and (min-width:500px) and (max-width:900px) {
